@@ -46,7 +46,6 @@ L'application guide le client à travers un tunnel de commande intuitif et réac
 4. **Dialogue de Succès Personnalisé (`dialog_order_success.xml`)** : Animation vectorielle combinant zoom d'échelle et fondu enchaîné avant retour propre à l'écran d'accueil via `Looper.getMainLooper()`.
 
 ---
-![FastFoodEat Logo](screenshots/logo.png)
 ## 📸 Aperçu de l'Interface Mobile
 
 | Découverte des Enseignes | Sélection Menu & Panier | Tunnel de Commande & Livraison |
