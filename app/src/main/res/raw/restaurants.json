@@ -1,0 +1,207 @@
+[
+  {
+    "name":"Pizza Madness",
+    "address":"8000 android av",
+    "delivery_charge": 5,
+    "image":"https://drive.google.com/uc?export=download&id=1dG3pO3sf99EytEOB64JHewTixCj70cxa",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Spaghetti",
+        "price": 10.00,
+        "url": "https://drive.google.com/uc?export=download&id=1ZWjpl6fpFxwYzmjuIisMgrBny0n0y7xy"
+      },
+      {
+        "name": "Spaghettios Pizza",
+        "price": 13.99,
+        "url": "https://drive.google.com/uc?export=download&id=1Fm3aUOgTe1aD1vlio3yIelR4d536cH_A"
+      },
+      {
+        "name": "Chocolate Pizza",
+        "price": 4.99,
+        "url": "https://drive.google.com/uc?export=download&id=1RsaCCoOonU6uKfGbeoYrZQPPv1a8qj9F"
+      },
+      {
+        "name": "Cheese Sticks",
+        "price": 5.49,
+        "url": "https://drive.google.com/uc?export=download&id=1uSdcdsSc-4PreHOR4AraIFcLNXOZTwi1"
+      },
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://drive.google.com/uc?export=download&id=1l9JYgCQiD4CQBuNQQBGEltUXXPpvo4io"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://drive.google.com/uc?export=download&id=1uRRvrKRT81dkAEnJPz7d9iq3m8YUf3Fs"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://drive.google.com/uc?export=download&id=14319-0_AVeMVunhwUcm792NuI_KTtwyv"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://drive.google.com/uc?export=download&id=1OLhnq2E28PsEaR-F2rK6C-Z1esPFaact"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://drive.google.com/uc?export=download&id=1AbtxPjIRNaMtBQm4a84Phy-_9D8sBMm0"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://drive.google.com/uc?export=download&id=12Yq1k2CXX_bvkDY8aF3c_qtkgN99ntI3"
+      }
+    ]
+  },
+  {
+    "name":"Slim's Hotdogs",
+    "address":"469 W Huron St.",
+    "delivery_charge": 4,
+    "image":"https://drive.google.com/uc?export=download&id=1oUMI6cjnApRDKFkZFZsGT45am2fcXZRK",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 1:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Hot Dog",
+        "price": 2.99,
+        "url": "https://drive.google.com/uc?export=download&id=1gWGG5J-6jeOQ5QAv99i8q-4yRFaNYWpH"
+      },
+      {
+        "name": "Cheese Dog",
+        "price": 3.59,
+        "url": "https://drive.google.com/uc?export=download&id=1NoYHwUEmJbn5kIQ_bdoS1FE9uR7AC9cu"
+      },
+      {
+        "name": "Midway Monster",
+        "price": 5.44,
+        "url": "https://drive.google.com/uc?export=download&id=1UwVq0NgIn_V8_p_qiSPWx_fnoex1Xkht"
+      },
+      {
+        "name": "Fries",
+        "price": 2.00,
+        "url": "https://drive.google.com/uc?export=download&id=1lr0teOUmJLPt3O9SqkRX_44fA87-v9DM"
+      },
+      {
+        "name": "Milkshake",
+        "price": 3.49,
+        "url": "https://drive.google.com/uc?export=download&id=1Fsc7ez7zxGs3L5WZJ05Htio1wqEPdYr-"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 4.95,
+        "url": "https://drive.google.com/uc?export=download&id=1V4JtkiTctFxuS6HuhUM6_spEweQRatIn"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 3.59,
+        "url": "https://drive.google.com/uc?export=download&id=136kahFMWSNCDnxlx9LroRt2exfMi-MzQ"
+      }
+    ]
+  },
+  {
+    "name":"McDonald's",
+    "address":"10975 State Bridge Rd.",
+    "delivery_charge": 5,
+    "image":"https://drive.google.com/uc?export=download&id=15wvKCvICph3TbJf8i5ubisXmbK3Zb5Tk",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Filet-O-Fish",
+        "price": 5.49,
+        "url": "https://drive.google.com/uc?export=download&id=1T44s7OKtm1zC7HT4p9q67ExQNEJhMwD5"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://drive.google.com/uc?export=download&id=1tEfNK-ndQePOp8ycyjoaRnYuMlCE9MFN"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://drive.google.com/uc?export=download&id=1caLLQMAO9I1u0Rp5ZwPuBqCXLG8vZwqn"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 6.99,
+        "url": "https://drive.google.com/uc?export=download&id=1zhJaHUJz_Tt5gDLi4hOdgYo0dAwpmnZ5"
+      }
+    ]
+  },
+  {
+    "name":"Zaxby's",
+    "address":"8777 windward pkwy.",
+    "delivery_charge": 6,
+    "image":"https://drive.google.com/uc?export=download&id=1ld9wz7quYtb5gnP7kPKH6XR-InU0KS3T",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://drive.google.com/uc?export=download&id=1_uXVeJ-a_yfHTzMdoXrQS6eAjwd-8Tbz"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://drive.google.com/uc?export=download&id=1VzQJF-t2WEORC-iQ7t9nCdYWz4lIgT3B"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://drive.google.com/uc?export=download&id=1tVsJh4NyQCFa2lfkWQHY_CHzvBc5PhPk"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://drive.google.com/uc?export=download&id=19iOZq73sKuJLp8JNtHPz-KcxFaEmmOc3"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://drive.google.com/uc?export=download&id=1p_2VOGfrQ8MW3lU_9i49Oyp4J9q9Lfri"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://drive.google.com/uc?export=download&id=1vbwyaaXBt97JcCpt0R-jZ7Uq9-C6pJo6"
+      }
+    ]
+  }
+]
